@@ -2,7 +2,7 @@
 script that combines multiple csv file into one
 
 ## Overview
-The script uses the pandas library converting each csv file into a data frame and then concatenation each frame. 
+The script uses the pandas library converting each csv file into a data frame and then concatenation each frame.The readme instructions assumes the script being run in a windows enviroment.
 
 ## Dependencies
 1) Python3
