@@ -11,8 +11,11 @@ The script uses the pandas library converting each csv file into a data frame an
 ## Installation
 1)	To install python3 on windows :  https://www.python.org/downloads/windows/ and choose the latest release for python3. Once you install python, check that pip is also installed. You can type pip --version into the command line which will show you the version. If you get any other output, it means pip is not installed.
 
-2) Intall pandas
-```  pip install pandas ```
+2) Install pandas
+```  
+  pip install pandas 
+
+```
 
 ## Running the file
 1)	Place the file combiner.py in the same directory as you csv files you want to combine
